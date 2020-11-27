@@ -6,6 +6,18 @@
 ##
 ##############################################################################
 
+#############################
+Password="P@ssword@123"
+password="P@ssword@123"
+Pass="P@ssword@123"
+pass="P@ssword@123"
+Pwd="P@ssword@123"
+pwd="P@ssword@123"
+
+#############################
+
+
+
 # Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
 DEFAULT_JVM_OPTS=""
 
